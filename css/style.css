@@ -1,0 +1,16 @@
+
+
+/* Navigation CSS */
+
+/* Hero CSS */
+
+.hero {
+    background-image: url(/images/matt-landscape.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero h1 {
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+}
