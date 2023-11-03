@@ -22,10 +22,9 @@
 /* Projects Section CSS */
 
 .sub-titles {
-    border-bottom: 3px solid rgb(33, 37, 41);
+    border-bottom: 2px solid rgb(33, 37, 41);
     padding-bottom: 5px;
     width: 350px;
-    text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.3);
 }
 
 .card-img-top {
@@ -39,4 +38,23 @@
 #skills .card:hover {
     scale: 1.03;
     transition: 0.2s;
+}
+
+/* About me / contact me CSS */
+
+.links a {
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+#about a:hover {
+    text-shadow: 2px 4px 3px rgba(255, 255, 255, 0.3);
+    scale: 1.1;
+}
+
+#contact img:hover {
+    box-shadow: 2px 4px 3px rgba(0, 0, 0, 0.3);
+    border-radius: 25px;
 }
