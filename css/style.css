@@ -9,7 +9,7 @@
 /* Hero CSS */
 
 .hero {
-    background-image: url(/images/matt-landscape.jpg);
+    background-image: url(../images/matt-landscape.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
